@@ -4,8 +4,8 @@ recusively calculates number of files/folders within folders starting from the c
 
 output is given in descending order
 
-### note regarding '\'
-'\' was added to the script to allow easy c&p between terminal sessions
+### note regarding '\\'
+'\\' was added to the script to allow easy c&p between terminal sessions
 
 ### how to use
 
